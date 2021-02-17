@@ -1,3 +1,5 @@
+![alt text](https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Chimp%20big.jpg?raw=true)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SoftwareChimp/SoftwareChimp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
