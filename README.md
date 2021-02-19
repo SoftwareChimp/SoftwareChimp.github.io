@@ -4,4 +4,4 @@ TEAM MEMBERS:
 
 MEETING LOGS:
 
-[meeting_date]:(https://github.com/JustAnotherDevFromLA/SoftwareChimp.github.io/blob/main/Meeting_Logs/Test_Log?raw=true)
+1) [meeting_date](https://github.com/JustAnotherDevFromLA/SoftwareChimp.github.io/blob/main/Meeting_Logs/Test_Log?raw=true)
