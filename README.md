@@ -4,3 +4,4 @@ TEAM MEMBERS:
 
 MEETING LOGS:
 
+![alt text](https://github.com/JustAnotherDevFromLA/SoftwareChimp.github.io/blob/main/Meeting_Logs/Test_Log?raw=true)
