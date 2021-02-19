@@ -1,0 +1,9 @@
+2/17/21:
+
+Website is live, now time to start working on it, need to post our names and roles as
+well as the daily meeting logs. a list of txt files works just fine. We also need to
+decide on what technologies we will be using for the app development. Proposed so far
+is Vscode for the ide to test the code, however what frontend, middleware, and backend
+we are using is still undecided. Though a combination of Bootstrap, Ruby on Rails, and
+either SQlite or MySQL was brought up. Lets do some research before next meeting so we
+can decide what we are using. As for hosting either AWS or Heroku.
