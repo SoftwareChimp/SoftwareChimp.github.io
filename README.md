@@ -2,10 +2,10 @@
 
 TEAM MEMBERS:
 - Artashes Kocharyan
-- Calvin Y.
-- Chris H.
+- Calvin Ye
+- Christopher Hess
 - Ethan Melero
-- A. Auksorn
+- Auraiporn Auksorn
 
 MEETING LOGS:
 
