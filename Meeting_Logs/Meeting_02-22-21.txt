@@ -1,0 +1,5 @@
+2/22/21:
+
+AWS is chosen to be the hosting provider
+
+We have created and Set up a AWS account and are ready to start working on the project

@@ -1,0 +1,5 @@
+2/23/21:
+
+The SRS is mostly ready to go we have a few minor details that will be ironed out by Friday
+
+We have started working on our database schema and are now thinking about ways to split up the workload

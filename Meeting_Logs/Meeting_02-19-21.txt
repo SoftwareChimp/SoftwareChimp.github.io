@@ -1,0 +1,7 @@
+2/19/21:
+
+We have started to upload daily meeting logs to github and displaying them on the website
+
+Further discussions on what technologies to use 
+
+All team members will conduct their research and give feedback on using Python / Java for backend

@@ -1,0 +1,8 @@
+2/21/21:
+
+Hosting service needs to be picked and set up.
+
+Possibly AWS or Digital Ocean
+
+We are working on making sure that everyone has compatible versions of all frameworks
+

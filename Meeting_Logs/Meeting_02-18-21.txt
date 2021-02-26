@@ -1,0 +1,7 @@
+2/18/21
+
+Adjusted Repo settings, members no longer need to create pull requests in order to merge their code
+
+All the team members have added their names to the company website
+
+This way we made sure that everyone is able to make edits to the repo

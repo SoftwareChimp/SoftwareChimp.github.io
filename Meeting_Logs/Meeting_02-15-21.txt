@@ -1,0 +1,7 @@
+2/15/21
+
+Created logos for "Software Chimp" and "Grocery Chimp"
+
+We had a discussion on how to set up the company website for "Software Chimp"
+
+Possible option is to use github pages

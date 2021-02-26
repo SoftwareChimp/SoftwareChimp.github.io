@@ -1,0 +1,5 @@
+2/14/21
+
+set up the repository for "Grocery Chimp"
+
+invited all the members to the github and made sure everyone has the appropriate permissions

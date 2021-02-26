@@ -1,0 +1,7 @@
+2/20/21:
+
+We have decided to use Python/Django/mySQL for our back end, middleware and database 
+
+All the team members will make sure to install all the appropriate packages 
+
+Will make sure that everyone is able to use the frameworks without issues.

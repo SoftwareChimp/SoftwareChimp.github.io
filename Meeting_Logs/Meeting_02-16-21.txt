@@ -1,0 +1,7 @@
+2/16/21
+
+Decided on using github pages for hosting the company website
+
+Reorganized the github repos to be public and created the outline of the website
+
+Discussed possible technologies to use for the back end and middleware.

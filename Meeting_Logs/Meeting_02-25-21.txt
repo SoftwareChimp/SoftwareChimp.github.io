@@ -1,0 +1,7 @@
+2/25/21:
+
+Made serious progress on the database tables
+
+All the tables/fields necessray for our desired app functionality are present
+
+We might need to work on normalizing our tables and adjusting the structure 
