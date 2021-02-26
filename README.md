@@ -23,5 +23,5 @@
 13. [2/25/21](https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_02-25-21.txt?raw=true)
 
 ## Documentation
--[SRS]
-<embed src="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Website_Docs/System%20Requirements%20Specification-converted.pdf" type="application/pdf" />
+-[SRS](https://docs.google.com/document/d/1jn8XpuolhbxeFvDc_cR7gN_8qKVCx2tIs7Fafs2YMPo/edit?usp=sharing)
+
