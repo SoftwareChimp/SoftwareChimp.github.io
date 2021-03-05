@@ -1,0 +1,5 @@
+3/04/21:
+
+Populated our mock Database with data.
+
+Uploaded meeting logs for the week to the company website. 

@@ -1,0 +1,5 @@
+2/26/21:
+
+Made various adjustments to our System Requirements Specifications page as discussed during the spring meeting on Friday.
+
+Started to plan out the required attributes in our database models.

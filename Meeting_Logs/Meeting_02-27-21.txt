@@ -1,0 +1,5 @@
+2/27/21:
+
+We were able to make a list of all entities and their coressponding atributes.
+
+We also had a brain storm session in relation to our EER Model.

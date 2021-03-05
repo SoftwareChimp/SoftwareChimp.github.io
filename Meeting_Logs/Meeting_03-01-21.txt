@@ -1,0 +1,5 @@
+3/01/21:
+
+Started to work on building the Table Realization.
+
+Had an extensive discussion regarding some additional features in the app that might be neccessary to implement.

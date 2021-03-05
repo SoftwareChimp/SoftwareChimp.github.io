@@ -1,0 +1,5 @@
+3/03/21:
+
+We were able to finish the table realization and made some corrections to the EER Model.
+
+Discussed the attributes of the mock data that will be populated in the Table Realization.

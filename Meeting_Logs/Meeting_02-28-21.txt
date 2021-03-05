@@ -1,0 +1,5 @@
+2/28/21:
+
+We had discussions regarding some minor changes to certain relationships within our DB Tables
+
+Made adjustments to our permission_level field in order to more accurately reflect its purpose.
