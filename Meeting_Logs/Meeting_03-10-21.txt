@@ -1,0 +1,5 @@
+3/10/21:
+
+We were able to set up the appropriate enviroments and packages for redeploying with heroku.
+
+Our front end team was able to implement the button required for this week's sprint.

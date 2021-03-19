@@ -1,0 +1,6 @@
+3/06/21:
+
+Kept working on deploying the project on AWS. 
+
+While we are able to host the DB on AWS we are having major issues with getting Django on AWS.
+

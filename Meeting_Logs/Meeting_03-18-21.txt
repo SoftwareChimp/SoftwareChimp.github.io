@@ -1,0 +1,5 @@
+3/18/21:
+
+We were finally able to successfully deploy the website.
+
+We also worked on updating our meeting logs.

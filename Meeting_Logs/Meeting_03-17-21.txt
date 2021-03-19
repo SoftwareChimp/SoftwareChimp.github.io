@@ -1,0 +1,9 @@
+3/17/21:
+
+We were finally able to resolve our issue with heroku not being able to access our repo.
+
+We had to reconfigure our github org in order to be able to give thrid party access to Heroku.
+
+Software-Chimp-Inc was the org that heroku was requesting access from however Software Chimp is where the repo is hosted. 
+
+Software-Chimp-Inc was deleted and Software Chimp was made into an org and third party restrictions were lifted.

@@ -1,0 +1,5 @@
+3/07/21:
+
+AWS seems to not be working out for our project. We had a discussion regarding other possiblities for hosting services.
+
+Heroku and Digital Ocean will be our 2 options in case we are still not succesful by Monday.

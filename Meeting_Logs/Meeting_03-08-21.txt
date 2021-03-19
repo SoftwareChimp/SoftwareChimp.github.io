@@ -1,0 +1,7 @@
+3/05/21:
+
+We were not able to deploy the project and are now working on transitioning to another hosting service.
+
+We need to weigh the pros and cons of Digital Ocean and Heroku. 
+
+A decision will be made tomorrow.

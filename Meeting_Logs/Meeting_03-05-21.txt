@@ -1,0 +1,7 @@
+3/05/21:
+
+Had a lengthy disscussion regarding our issues with AWS as the hosting service.
+
+A decision was made to try getting the project to work with AWS over the weekend.
+
+Monday is the new deadline for deploying the project on AWS otherwise other hosting services will be explored.

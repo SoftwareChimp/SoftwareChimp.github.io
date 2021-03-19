@@ -1,0 +1,8 @@
+3/13/21:
+
+We were able to successfully transition the project to Heroku and successfully locally deployed the project.
+
+We have started to work on the website home page layout and are quickly making progress.
+
+We are going to work on going live tomorrow by depolying the website through Heroku.
+

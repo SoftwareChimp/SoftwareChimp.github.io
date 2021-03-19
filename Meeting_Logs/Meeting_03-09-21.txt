@@ -1,0 +1,6 @@
+3/09/21:
+
+We picked Heroku to be our new hosting service because of its built in support for Django. 
+
+We will begin the re-deployment process shortly.
+

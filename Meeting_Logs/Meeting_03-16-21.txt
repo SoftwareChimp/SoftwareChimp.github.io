@@ -1,0 +1,7 @@
+3/16/21:
+
+Validation failed error with heroku still persists. 
+
+We tried to grant access to Heroku and removed third party restrictions from the org settings with no success.
+
+Further troubleshooting will be done tomorrow.

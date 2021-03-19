@@ -1,0 +1,5 @@
+3/14/21:
+
+We successfully pushed the majority of the project code on to the github repo except for the website home page.
+
+We are ironing out the details of deploying the website on Heroku and should be able to go live along with the done home page tomorrow.

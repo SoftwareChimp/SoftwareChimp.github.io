@@ -1,0 +1,5 @@
+3/12/21:
+
+We are working on setting up the project within a virtual environment and getting accustomed to the Heroku stack.
+
+Our front end team is going to begin working on the website home page and hopefully have it ready by this Friday.

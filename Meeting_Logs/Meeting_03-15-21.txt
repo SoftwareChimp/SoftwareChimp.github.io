@@ -1,0 +1,7 @@
+3/15/21:
+
+Our front end team has successfully implemented the website home page and pushed the code to the github.
+
+We are having a minor validation failed error issue while attempting to deploy the project.
+
+We should be able to successfully deploy tomorrow.
