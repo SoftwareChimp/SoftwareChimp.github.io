@@ -1,0 +1,5 @@
+3/23/21:
+
+We discussed various front end/React related issues, particularly as related to Django and other framework related dependencies.
+
+Auraiporn deployed the new Store Page design and will work on functionality and additional pages later in the week.

@@ -1,0 +1,5 @@
+3/21/21:
+
+Auraiporn created a new branch with the updated sign up/sign in pages.
+
+We disscussed and tried to get the sign in/up React pages properly integrated with the rest of our Website.

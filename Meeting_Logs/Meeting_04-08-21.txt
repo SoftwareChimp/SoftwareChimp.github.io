@@ -1,0 +1,3 @@
+4/08/21:
+
+We ran into some issues with deploying the latest version of the website but all of the desired functionality and front end integration for this week has been achieved.

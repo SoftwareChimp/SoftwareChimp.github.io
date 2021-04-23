@@ -1,0 +1,3 @@
+4/09/21:
+
+Calvin started to work on the shopping cart functionality and a placeholder shopping cart page.

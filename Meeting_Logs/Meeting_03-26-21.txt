@@ -1,0 +1,5 @@
+3/26/21:
+
+Calvin has successfully been able to add the account creation fuctionality. Ethan finished with the inventory data generation. 
+
+All changes were pushed to github and the new wesbite was deployed.

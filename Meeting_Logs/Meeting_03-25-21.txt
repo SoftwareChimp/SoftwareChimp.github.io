@@ -1,0 +1,6 @@
+3/25/21:
+
+Ethan has started to generate mock data for the database including stores, products and inventory.
+
+Calvin ran into some dependecy related issues that had to do with React, node.js and Django.
+

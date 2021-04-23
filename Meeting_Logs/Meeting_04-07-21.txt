@@ -1,0 +1,4 @@
+4/07/21:
+
+Calvin made some adjustments to the way item prices are retrieved from the database in order to avoid issues while deploying.
+

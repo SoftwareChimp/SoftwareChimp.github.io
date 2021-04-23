@@ -1,0 +1,5 @@
+4/10/21:
+
+We had to make a few fixes related to inconsistent data type requirments for some of the models.
+
+Auraiporn has started to work on a shopping cart page.

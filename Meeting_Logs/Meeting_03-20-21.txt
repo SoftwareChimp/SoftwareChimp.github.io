@@ -1,0 +1,5 @@
+3/20/21:
+
+Auraiporn made some progress creating the sign in/sign up pages, as well as, overall getting familiar with using React. 
+
+We disscussed possible website structures and other design related elements.

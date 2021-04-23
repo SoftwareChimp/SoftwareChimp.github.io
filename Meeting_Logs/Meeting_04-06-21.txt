@@ -1,0 +1,5 @@
+4/06/21:
+
+We have decided to add a new table to our database called product images.
+
+This table will hold the pictures of store product that will be made visible to the customers.

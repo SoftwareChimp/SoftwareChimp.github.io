@@ -1,0 +1,5 @@
+3/22/21:
+
+We decided what the format for the store pages should look like. We will have the following key features displayed for each unique store.
+
+store_name, store_address, best_sellers, inventory
