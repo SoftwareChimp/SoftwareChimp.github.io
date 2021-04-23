@@ -57,6 +57,43 @@
   34. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-18-21.txt?raw=true">3/18/21</a><br>
 </details>
 
+<details><summary><pre>Week 6 Logs (3/19/21 - 3/25/21)</pre></summary>
+  35. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-19-21.txt?raw=true">3/19/21</a><br>
+  36. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-20-21.txt?raw=true">3/20/21</a><br>
+  37. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-21-21.txt?raw=true">3/21/21</a><br>
+  38. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-22-21.txt?raw=true">3/22/21</a><br>
+  39. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-23-21.txt?raw=true">3/23/21</a><br>
+  40. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-24-21.txt?raw=true">3/24/21</a><br>
+  41. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-25-21.txt?raw=true">3/25/21</a><br>
+</details>
+
+<details><summary><pre>Week 7 Logs (3/26/21 - 4/01/21)</pre></summary>
+  42. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-26-21.txt?raw=true">3/26/21</a><br>
+  43. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-27-21.txt?raw=true">3/27/21</a><br>
+  44. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-28-21.txt?raw=true">3/28/21</a><br>
+  45. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-29-21.txt?raw=true">3/29/21</a><br>
+  46. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-30-21.txt?raw=true">3/30/21</a><br>
+  47. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_03-31-21.txt?raw=true">3/31/21</a><br>
+  48. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-01-21.txt?raw=true">4/01/21</a><br>
+</details>
+
+<details><summary><pre>Week 8 Logs (4/02/21 - 4/08/21)</pre></summary>
+  49. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-02-21.txt?raw=true">4/02/21</a><br>
+  50. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-03-21.txt?raw=true">4/03/21</a><br>
+  51. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-04-21.txt?raw=true">4/04/21</a><br>
+  52. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-05-21.txt?raw=true">4/05/21</a><br>
+  53. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-06-21.txt?raw=true">4/06/21</a><br>
+  54. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-07-21.txt?raw=true">4/07/21</a><br>
+  55. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-08-21.txt?raw=true">4/08/21</a><br>
+</details>
+
+<details><summary><pre>Week 9 Logs (4/09/21 - 4/15/21)</pre></summary>
+  56. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">4/09/21</a><br>
+  57. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">4/10/21</a><br>
+  58. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/11/21</a><br>
+</details>
+
+
 
 ## Documentation
 -[System Requirements Specification (SRS)](https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Website_Docs/System%20Requirements%20Specification-converted.pdf?raw=true)
