@@ -91,8 +91,51 @@
   56. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">4/09/21</a><br>
   57. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">4/10/21</a><br>
   58. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/11/21</a><br>
+  59. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/12/21</a><br>
+  60. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/13/21</a><br>
+  61. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/14/21</a><br>
+  62. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/15/21</a><br>
 </details>
 
+<details><summary><pre>Week 10 Logs (4/16/21 - 4/22/21)</pre></summary>
+  63. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">4/16/21</a><br>
+  64. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">4/17/21</a><br>
+  65. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/18/21</a><br>
+  66. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/19/21</a><br>
+  67. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/20/21</a><br>
+  68. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/21/21</a><br>
+  69. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/22/21</a><br>
+</details>
+
+<details><summary><pre>Week 11 Logs (4/23/21 - 4/29/21)</pre></summary>
+  70. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">4/23/21</a><br>
+  71. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">4/24/21</a><br>
+  72. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/25/21</a><br>
+  73. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/26/21</a><br>
+  74. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/27/21</a><br>
+  75. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/28/21</a><br>
+  76. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">4/29/21</a><br>
+</details>
+
+
+<details><summary><pre>Week 12 Logs (4/30/21 - 5/06/21)</pre></summary>
+  77. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">4/30/21</a><br>
+  78. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">5/01/21</a><br>
+  79. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/02/21</a><br>
+  80. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/03/21</a><br>
+  81. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/04/21</a><br>
+  82. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/05/21</a><br>
+  83. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/06/21</a><br>
+</details>
+
+<details><summary><pre>Week 13 Logs (5/07/21 - 5/12/21)</pre></summary>
+  84. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-09-21.txt?raw=true">5/07/21</a><br>
+  85. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-10-21.txt?raw=true">5/08/21</a><br>
+  86. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/09/21</a><br>
+  87. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/10/21</a><br>
+  88. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/11/21</a><br>
+  89. <a href="https://github.com/SoftwareChimp/SoftwareChimp.github.io/blob/main/Meeting_Logs/Meeting_04-11-21.txt?raw=true">5/12/21</a><br>
+</details>
 
 
 ## Documentation
